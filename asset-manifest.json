@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-practice-with-react/static/css/main.288e9281.css",
+    "main.js": "/redux-practice-with-react/static/js/main.0c48674a.js",
+    "index.html": "/redux-practice-with-react/index.html",
+    "main.288e9281.css.map": "/redux-practice-with-react/static/css/main.288e9281.css.map",
+    "main.0c48674a.js.map": "/redux-practice-with-react/static/js/main.0c48674a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288e9281.css",
+    "static/js/main.0c48674a.js"
+  ]
+}
